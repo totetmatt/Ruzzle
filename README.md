@@ -11,3 +11,5 @@ How to use it ?
 - Download the project and unzip it 
 - Open a terminal and go to the Ruzzle directory
 - Enter : java -jar Ruzzle.jar THE16LETTERSINCAPITAL and wait for result
+
+Type the 16 letters line by line, from upper left to down right.
